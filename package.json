@@ -1,0 +1,15 @@
+{
+  "name": "qunit-cli-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mw-node-qunit test.js"
+  },
+  "keywords": [],
+  "author": "Joaquin Oltra <joaquin@chimeces.com> (http://chimeces.com)",
+  "license": "ISC",
+  "dependencies": {
+    "mw-node-qunit": "^4.0.0"
+  }
+}
